@@ -37,7 +37,7 @@ const TestimonialsSection = () => {
             What Our Clients Say
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Don't just take our word for it. Hear from our satisfied clients about their luxury real estate experience.
+            Don&apos;t just take our word for it. Hear from our satisfied clients about their luxury real estate experience.
           </p>
         </div>
         
@@ -57,7 +57,7 @@ const TestimonialsSection = () => {
                 ))}
               </div>
               <blockquote className="text-gray-700 mb-6">
-                "{testimonial.content}"
+                &ldquo;{testimonial.content}&rdquo;
               </blockquote>
               <div className="flex items-center">
                 <img

@@ -86,7 +86,7 @@ const TodaysLuxuryListings = () => {
     <div className="py-16 px-4 max-w-7xl mx-auto">
       {/* Header Section */}
       <div className="text-center mb-12">
-        <h2 className="text-4xl font-bold text-gray-800 mb-4">Today's Luxury Listings</h2>
+        <h2 className="text-4xl font-bold text-gray-800 mb-4">Today&apos;s Luxury Listings</h2>
         <p className="text-gray-600 text-lg">Thousands of luxury home enthusiasts just like you visit our website.</p>
       </div>
 

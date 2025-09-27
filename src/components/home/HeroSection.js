@@ -19,7 +19,7 @@ const HeroSection = () => {
       setIndex((prev) => (prev + 1) % words.length);
     }, 2000); // change every 2s
     return () => clearInterval(interval);
-  }, []);
+  }, [words.length]);
 
   return (
     <section className="relative min-h-[655px] flex items-center">

@@ -64,7 +64,7 @@ const Discover = () => {
               Find out how much you can afford
             </h3>
             <p className="text-gray-600 text-sm mb-6 leading-snug">
-              We'll help you estimate your budget range. Save to your buyer profile to help in your search
+              We&apos;ll help you estimate your budget range. Save to your buyer profile to help in your search
             </p>
             <button className="border border-primary text-primary px-8 py-3 rounded-xl font-medium hover:bg-primary hover:text-white transition-all duration-300">
               Learn More
@@ -115,7 +115,7 @@ const Discover = () => {
           <p className="text-gray-600 text-sm">
             Looking to spotlight a unique property with expert marketing?{' '}
             <button className="text-primary font-medium hover:text-orange-600 transition-colors duration-300 underline">
-              Let's chat
+              Let&apos;s chat
             </button>
           </p>
         </div>
